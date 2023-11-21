@@ -24,7 +24,7 @@
   <br>
 </h1>
 
-<pPS: Dont forget <span><b>#!/bin/bash<b></span> !! </b> > </p>
+<pPS: Dont forget <span><b#!/bin/bash<b></span> !!> </b>  </p>
 
 
 
