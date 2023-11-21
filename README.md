@@ -5,7 +5,7 @@
 <h2> To see results do the following </h2>
 <ol>
 <li>go to this link https://tailwindcss.com/blog/standalone-cli#get-started</li>
-<li> check the first block with th 3 commands </li>
+<li> check the first block with th 3 commands (as shown in the first image ) </li>
 <li> copy the link that is suitable to the device you have </li>
 <li> change the command depending on what you have ( in my case it was windows ) you will see it attached in this repository </li>
 </ol>
