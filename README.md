@@ -2,12 +2,13 @@
 
 <h1> This is an indication of the Shell Scripting </h1>
 
-<h5> To see results do the following </h5>
-- go to this link https://tailwindcss.com/blog/standalone-cli#get-started
-- check the first block with th 3 commands 
-- copy the link that is suitable to the device you have 
-- change the command depending on what you have ( in my case it was windows ) you will see it attached in this repository 
-
+<h3> To see results do the following </h3>
+<ol>
+<li>go to this link https://tailwindcss.com/blog/standalone-cli#get-started</li>
+<li> check the first block with th 3 commands </li>
+<li> copy the link that is suitable to the device you have </li>
+<li> change the command depending on what you have ( in my case it was windows ) you will see it attached in this repository </li>
+</ol>
 
 <h1>Bash Script  </h1>
 <h1 align="center">
