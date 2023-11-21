@@ -2,7 +2,7 @@
 
 <h1> This is an indication of the Shell Scripting </h1>
 
-<h3> To see results do the following </h3>
+<h2> To see results do the following </h2>
 <ol>
 <li>go to this link https://tailwindcss.com/blog/standalone-cli#get-started</li>
 <li> check the first block with th 3 commands </li>
