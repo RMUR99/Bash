@@ -4,9 +4,12 @@
 
 there is a article of mine explaining this process in details ! 
 
-DEV POS5 : 
+<h1 align="center">
+  <br>
+  <img src="https://github.com/RMUR99/Bash/assets/85951306/44df7ddb-1a82-46b2-a812-4bce52dca70e" alt="readme-image" width="800">
+  <br>
+</h1>
 
-https://github.com/RMUR99/Bash/assets/85951306/3dc26751-bced-496c-8fae-f74cc3a47274
 
 
 Link : https://dev.to/rmur99/bashing-as-a-junior-developer-gone-right--2l3i
